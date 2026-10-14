@@ -1,0 +1,2 @@
+import { usePage } from '@inertiajs/react'; import type { PageProps } from '../types';
+export default function Flash(){const {flash}=usePage<PageProps>().props;if(!flash?.success&&!flash?.error)return null;return <div className={`mb-5 rounded-xl border px-4 py-3 text-sm ${flash.error?'border-red-900 bg-red-950/40 text-red-200':'border-emerald-900 bg-emerald-950/30 text-emerald-200'}`}>{flash.error||flash.success}</div>}

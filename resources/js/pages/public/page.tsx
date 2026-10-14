@@ -1,0 +1,2 @@
+import Seo from '../../components/Seo'; import PublicLayout from '../../layouts/PublicLayout';
+export default function Page({page,seo}:{page:any;seo:any}){return <PublicLayout><Seo seo={seo}/><article className="container-afp py-12"><div className="mx-auto max-w-3xl"><h1 className="editorial text-5xl md:text-6xl">{page.title}</h1><div className="gold-rule my-8"></div><div className="prose-afp whitespace-pre-line leading-8">{page.content}</div></div></article></PublicLayout>}

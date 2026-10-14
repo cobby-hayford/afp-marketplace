@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>419 · Session expired | African Film Producers</title>
+<style>html{color-scheme:dark}body{margin:0;background:#0c0d0f;color:#f2eee4;font-family:ui-sans-serif,system-ui,sans-serif}.wrap{min-height:100vh;display:grid;place-items:center;padding:24px}.card{width:min(660px,100%);border:1px solid #2b2d30;background:#121417;border-radius:22px;padding:42px;box-sizing:border-box}.eyebrow{color:#c9aa67;letter-spacing:.2em;text-transform:uppercase;font-size:12px}h1{font-family:Georgia,serif;font-weight:500;font-size:44px;margin:10px 0 12px}.code{font-size:14px;color:#918d84}.copy{line-height:1.7;color:#aaa59b}.btn{display:inline-block;margin-top:20px;background:#c9aa67;color:#111;padding:12px 18px;border-radius:999px;text-decoration:none;font-weight:700}.secondary{margin-left:8px;background:transparent;color:#eee;border:1px solid #3a3c40}</style>
+</head><body><main class="wrap"><section class="card"><div class="eyebrow">African Film Producers</div><div class="code">Error 419</div><h1>Session expired</h1><p class="copy">Your secure session has expired. Please refresh the page and try again.</p><a class="btn" href="/">Go to homepage</a><a class="btn secondary" href="/projects">Browse projects</a></section></main></body></html>
